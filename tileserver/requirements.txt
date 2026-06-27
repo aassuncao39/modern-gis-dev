@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+titiler.core
+titiler.mosaic
+rio-tiler
+rasterio
+boto3
